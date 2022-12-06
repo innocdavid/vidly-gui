@@ -17,6 +17,12 @@ body {
   text-decoration: none;
 }
 
+.login-dev {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
